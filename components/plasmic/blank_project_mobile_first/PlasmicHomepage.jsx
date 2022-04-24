@@ -88,7 +88,7 @@ function PlasmicHomepage__RenderFunc(props) {
             data-plasmic-override={overrides.link}
             className={classNames(projectcss.all, projectcss.a, sty.link)}
             component={Link}
-            href={"https://www.instagram.com/prettyfab.nails/"}
+            href={"https://prettyfabnails.com"}
             platform={"nextjs"}
           >
             <div
