@@ -60,7 +60,7 @@ function PlasmicHomepage__RenderFunc(props) {
             className={classNames(sty.img)}
             displayHeight={"auto"}
             displayMaxHeight={"none"}
-            displayMaxWidth={"70%"}
+            displayMaxWidth={"20em"}
             displayMinHeight={"0"}
             displayMinWidth={"0"}
             displayWidth={"auto"}
@@ -80,7 +80,7 @@ function PlasmicHomepage__RenderFunc(props) {
               sty.text__qsn7L
             )}
           >
-            {"Enter some text"}
+            {"✅ Thank you! \n\nYour response has been recorded."}
           </div>
 
           <p.PlasmicLink
@@ -110,7 +110,7 @@ function PlasmicHomepage__RenderFunc(props) {
                   sty.text___1UB0Y
                 )}
               >
-                {"Back to @prettyfab.nails on Instagram"}
+                {"Back to prettyfabnails.com"}
               </div>
             </div>
           </p.PlasmicLink>
